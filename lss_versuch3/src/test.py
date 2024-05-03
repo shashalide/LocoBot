@@ -37,4 +37,5 @@ if __name__ == '__main__':
     right = 5
     draw_board(left, right, left, right)
     goals = getGoals()
+    print(goals)
     plt.show()
